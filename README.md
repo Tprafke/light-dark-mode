@@ -4,7 +4,7 @@
 
 ## Description
 
-A simple app built using JavaScript, HTML, and CSS. Allows the user to select light or dark mode styles, and saves their selection into local storage.
+A simple website built using JavaScript, HTML, and CSS. Allows the user to select light or dark mode styles, and saves their selection into local storage.
 
 ## Languages & Technologies
 
