@@ -2,8 +2,6 @@
 
 ### **[Live Site](https://tprafke.github.io/light-dark-mode/)**
 
-### <a href="https://tprafke.github.io/light-dark-mode/" target="_blank">Live Site</a>
-
 ## Description
 
 <p>A simple website built using JavaScript, HTML, and CSS. Allows the user to select light or dark mode styles, and saves their selection into local storage.</p>
